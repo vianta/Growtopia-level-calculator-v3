@@ -43,7 +43,17 @@ Calculator Bot v3 is a comprehensive Discord bot designed for servers with level
 
 ## Screenshots
 
-*Add screenshots of your bot in action*
+### Calculator with Custom Banner
+![Calculator Example](https://i.imgur.com/s3CLujb.png)
+*Modern calculator interface with custom banner, separators, and colorful XP display*
+
+### Features Showcase
+- ✨ **Custom Banner Support** - Add your own branded banner image
+- 🎨 **Visual Separators** - Clean dividers between sections
+- 🌈 **Colorful XP Display** - Rainbow-colored XP numbers in ANSI format
+- 📊 **Strategy Dropdown** - Easy navigation between 4 different strategies
+- 💾 **Save & History** - Save favorites and view calculation history
+- ⚙️ **Custom Strategy Builder** - Create your own pack combinations
 
 ---
 
