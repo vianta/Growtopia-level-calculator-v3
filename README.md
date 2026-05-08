@@ -1,6 +1,7 @@
 # Calculator Bot v3
 
-![Calculator Example]([https://i.imgur.com/s3CLujb.png](https://media.discordapp.net/attachments/1500167773199011961/1502304783438975137/image.png?ex=69ff39db&is=69fde85b&hm=aacf297936c8a7daa59c2bfaa5be621f78697976213c4119a06cabaa6c67c80a&=&format=webp&quality=lossless))
+![Calculator Example](https://cdn.discordapp.com/attachments/1500167773199011961/1502304783438975137/image.png?ex=69ff39db&is=69fde85b&hm=aacf297936c8a7daa59c2bfaa5be621f78697976213c4119a06cabaa6c67c80a&)
+
 
 
 > A powerful Discord bot for XP calculations, level progression tracking, and economy management.
